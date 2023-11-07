@@ -1,0 +1,14 @@
+2023-10-30 15:14:30.741 [main] INFO   - Add: Dfcbkbq vlsevmslvm ddkdkdkd@kddk.ri caldcmaclac
+2023-10-30 15:15:08.262 [main] INFO   - help: Command examples:
+	add Василий Петров vasily.petrov@gmail.com +79215637722
+	list
+	count
+	remove Василий Петров
+2023-10-30 15:21:04.784 [main] INFO   - Add: dfofgvev flolfgkl ffkoerfgerg
+2023-10-30 15:21:19.558 [main] INFO   - Add: rfldfgjeofgj ferlfgjiksjg fgolfjelfje g;egkelgkl
+2023-10-30 15:21:19.563 [main] ERROR Main - Invalid email format: fgolfjelfje
+2023-10-30 15:22:12.184 [main] ERROR Main - Wrong command! Available command examples: 
+	add Василий Петров vasily.petrov@gmail.com +79215637722
+	list
+	count
+	remove Василий Петров

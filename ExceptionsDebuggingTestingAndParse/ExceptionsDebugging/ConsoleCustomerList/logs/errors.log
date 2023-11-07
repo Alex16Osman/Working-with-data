@@ -1,0 +1,6 @@
+2023-10-30 15:21:19.563 [main] ERROR Main - Invalid email format: fgolfjelfje
+2023-10-30 15:22:12.184 [main] ERROR Main - Wrong command! Available command examples: 
+	add Василий Петров vasily.petrov@gmail.com +79215637722
+	list
+	count
+	remove Василий Петров
