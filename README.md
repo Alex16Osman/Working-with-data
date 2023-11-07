@@ -1,5 +1,9 @@
-# Working-with-data
-In this project, the project covers such operations as: 
-- Skills in working with lambda expressions and Stream API;
-- Working with files and the network;
-- Exceptions, debugging, testing and logging.
+# **Working-with-data** 
+##Данный проект охватывает такие операции, как:
+- Навыки работы с лямбда-выражениями и Stream API;
+- Работа с файлами и сетью;
+- Исключения, отладка, тестирование и логирование.
+_____
+
+
+
